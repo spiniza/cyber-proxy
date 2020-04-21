@@ -1,13 +1,13 @@
-# Atom
+# CyberEvil Proxy
 
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
 [![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com)
 
-Atom is a hackable text editor for the 21st century, built on [Electron](https://github.com/electron/electron), and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
+CyberEvil Proxy is a proxy gather for the 21st century, built on [Python](https://www.python.org/), and based on everything we love about our Proxy users. We designed in a way that users now can gather proxy and get [Pastebin](https://pastebin.com) link or you can save on your local pc/laptop, first time in any proxy Gather tool.
 
 ![CYBEREVILCAPTURE](https://user-images.githubusercontent.com/64060825/79849839-a6a58600-83e0-11ea-921d-355a1c40606e.PNG)
-Visit [atom.io](https://atom.io) to learn more or visit the [Atom forum](https://discuss.atom.io).
+Visit [Cyberevil](http://cyberevill.me) to learn more or visit the [Discord Server](https://discuss.atom.io).
 
 Follow [@AtomEditor](https://twitter.com/atomeditor) on Twitter for important
 announcements.
