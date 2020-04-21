@@ -11,7 +11,7 @@
 ![Helper](https://img.shields.io/badge/code%20helpers-5-orange)
 
 #### Discord  
-[![Discord](https://img.shields.io/discord/598435537400889385.svg?style=flat&label=Discord%20Chat&colorB=7289da)](https://discord.gg/Zw3sgp7)        [![HitCount](http://hits.dwyl.com/spiniza/proxycyber.svg)](http://hits.dwyl.com/spiniza/proxycyber)
+[![Discord](https://img.shields.io/discord/598435537400889385.svg?style=flat&label=Discord%20Chat&colorB=7289da)](https://discord.gg/Zw3sgp7)           [![HitCount](http://hits.dwyl.com/spiniza/proxycyber.svg)](http://hits.dwyl.com/spiniza/proxycyber)
 
 
 CyberEvil Proxy is a proxy gather for the 21st century, built on [Python](https://www.python.org/), and based on everything we love about our Proxy users. We designed in a way that users now can gather proxy and get [Pastebin](https://pastebin.com) link or you can save on your local pc/laptop, first time in any proxy Gather tool.
