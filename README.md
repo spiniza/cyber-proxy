@@ -2,7 +2,9 @@
 
 [![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
-[![Join the Atom Community on Slack](https://atom-slack.herokuapp.com/badge.svg)](https://atom-slack.herokuapp.com)
+
+#### Discord  
+![Discord Chat](https://discordapp.com/api/guilds/621093846583083028/widget.png?style=shield)
 
 CyberEvil Proxy is a proxy gather for the 21st century, built on [Python](https://www.python.org/), and based on everything we love about our Proxy users. We designed in a way that users now can gather proxy and get [Pastebin](https://pastebin.com) link or you can save on your local pc/laptop, first time in any proxy Gather tool.
 
