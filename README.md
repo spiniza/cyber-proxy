@@ -9,15 +9,9 @@ CyberEvil Proxy is a proxy gather for the 21st century, built on [Python](https:
 ![CYBEREVILCAPTURE](https://user-images.githubusercontent.com/64060825/79849839-a6a58600-83e0-11ea-921d-355a1c40606e.PNG)
 Visit [Cyberevil](http://cyberevill.me) to learn more or visit the [Discord Server](https://discuss.atom.io).
 
-Follow [@AtomEditor](https://twitter.com/atomeditor) on Twitter for important
-announcements.
-
-This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior to atom@github.com.
-
 ## Documentation
 
-If you want to read about using Atom or developing packages in Atom, the [Atom Flight Manual](https://flight-manual.atom.io) is free and available online. You can find the source to the manual in [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io).
+First download the Tool, Then open Windows Explorer from there head to Folder path and type `cmd`, then press enter once CMd pops up Type `pip3 install -r requirements.txt Now it will install all required modules Now close the Command prompt and open [Atom Flight Manual](https://flight-manual.atom.io) is free and available online. You can find the source to the manual in [atom/flight-manual.atom.io](https://github.com/atom/flight-manual.atom.io).
 
 The [API reference](https://atom.io/docs/api) for developing packages is also documented on Atom.io.
 
