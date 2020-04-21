@@ -6,7 +6,7 @@
 
 Atom is a hackable text editor for the 21st century, built on [Electron](https://github.com/electron/electron), and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
-![test image](https://user-images.githubusercontent.com/64060825/79847987-1a925f00-83de-11ea-9ea9-aeebd2b48b75.PNG)
+![CYBEREVILCAPTURE](https://user-images.githubusercontent.com/64060825/79849839-a6a58600-83e0-11ea-921d-355a1c40606e.PNG)
 Visit [atom.io](https://atom.io) to learn more or visit the [Atom forum](https://discuss.atom.io).
 
 Follow [@AtomEditor](https://twitter.com/atomeditor) on Twitter for important
