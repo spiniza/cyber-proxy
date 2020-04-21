@@ -18,7 +18,7 @@ First download the Tool, Then open Windows Explorer from there head to Folder pa
 ## Installing
 
 ### Prerequisites
-- [Git](https://git-scm.com)
+- [Python](https://www.python.org/downloads)
 
 
 
@@ -30,16 +30,6 @@ Download the latest version of
 
 if you already have Python, upgrade it by giving pip command `python -m pip install –upgrade pip` in command prompt.
 
-You can also download `atom-windows.zip` (32-bit) or `atom-x64-windows.zip` (64-bit) from the [releases page](https://github.com/atom/atom/releases/latest).
-The `.zip` version will not automatically update.
-
-Using [Chocolatey](https://chocolatey.org)? Run `cinst Atom` to install the latest version of Atom.
-
-### Linux
-
-Atom is only available for 64-bit Linux systems.
-
-Configure your distribution's package manager to install and update Atom by following the [Linux installation instructions](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-linux) in the Flight Manual.  You will also find instructions on how to install Atom's official Linux packages without using a package repository, though you will not get automatic updates after installing Atom this way.
 
 
 
