@@ -4,6 +4,7 @@
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
 [![GitHub Download Count](https://img.shields.io/badge/downloads-13-green.svg)
 ![GitHub Download Count](https://img.shields.io/github/downloads/Spiniza/cyber-proxy/total?logo=Downloads)
+![GitHub Download Count](https://img.shields.io/github/issues/spiniza/cyber-proxy)
 
 #### Discord  
 ![Discord Chat](https://discordapp.com/api/guilds/621093846583083028/widget.png?style=shield)
