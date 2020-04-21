@@ -1,0 +1,5 @@
+tqdm
+bs4
+time
+requests
+colorama
