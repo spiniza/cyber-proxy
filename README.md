@@ -1,13 +1,9 @@
-# GitHub Basic Badges
 
-[![GitHub Release](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg)]()
-[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)]()
-[![GitHub Issues Open](https://github-basic-badges.herokuapp.com/issues/kennedyoliveira/github-basic-badges.svg)]()
 
 # CyberEvil Proxy
-
-[![Build status](https://dev.azure.com/github/Atom/_apis/build/status/Atom%20Production%20Branches?branchName=master)](https://dev.azure.com/github/Atom/_build/latest?definitionId=32&branchName=master)
 [![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
+[![GitHub Download Count](https://img.shields.io/badge/downloads-13-green.svg)
+![GitHub Download Count](https://img.shields.io/github/downloads/Spiniza/cyber-proxy/total?logo=Downloads)
 
 #### Discord  
 ![Discord Chat](https://discordapp.com/api/guilds/621093846583083028/widget.png?style=shield)
