@@ -1,5 +1,5 @@
 tqdm
-BeautifulSoup
+Beautiful Soup 4.9.0
 time
 requests
 colorama
