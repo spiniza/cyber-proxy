@@ -1,65 +1,43 @@
-# GitHub Basic Badges
 
-[![GitHub Release](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg)]()
-[![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)]()
-[![GitHub Issues Open](https://github-basic-badges.herokuapp.com/issues/kennedyoliveira/github-basic-badges.svg)]()
 
-Basic badges for using with GitHub, and a service that you can deploy and create your own service to serve the GitHub badges.
+# CyberEvil Proxy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/spiniza/cyber-proxy)     
 
-## Motivation
+[![Dependency Status](https://david-dm.org/atom/atom.svg)](https://david-dm.org/atom/atom)
+![GitHub Download Count](https://img.shields.io/badge/downloads-13-green.svg)
+![GitHub Download Count](https://img.shields.io/github/issues/spiniza/cyber-proxy)
+![vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/spiniza/cyber-proxy)
+![Repo-size](https://img.shields.io/github/repo-size/spiniza/cyber-proxy)
+[![license](https://img.shields.io/github/license/spiniza/cyber-proxy.svg?style=flat-square)](https://github.com/spiniza/cyber-proxy/blob/master/LICENSE)
+![Helper](https://img.shields.io/badge/code%20helpers-5-orange)
 
-I know there are alots of services that you can generate badges for GitHub, i just developed one more to play around with Ruby and Heroku.
+#### Discord  
+[![Discord](https://img.shields.io/discord/598435537400889385.svg?style=flat&label=Discord%20Chat&colorB=7289da)](https://discord.gg/Zw3sgp7)           [![HitCount](http://hits.dwyl.com/spiniza/proxycyber.svg)](http://hits.dwyl.com/spiniza/proxycyber)
 
-### Badges
 
-All the URL Patterns showed in the table bellow must be used as `<app-url>\<url-pattern>`.
+CyberEvil Proxy is a proxy gather for the 21st century, built on [Python](https://www.python.org/), and based on everything we love about our Proxy users. We designed in a way that users now can gather proxy and get [Pastebin](https://pastebin.com) link or you can save on your local pc/laptop, first time in any proxy Gather tool.
 
-| URL Pattern | Description | Preview |
-| ----------- | ----------- | ------- |
-| `downloads/<user>/<repo>/total.svg` | Sum of downloads of all artifacts in the latest release. | [![GitHub Download Count](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/total.svg)]() |
-| `downloads/<user>/<repo>/<tag>/total.svg` | Sum of downloads of all artifacts in the release with the `<tag>` | [![GitHub Download Count By Tag](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/v1.0.0/total.svg)]() |
-| `downloads/<user>/<repo>/<file>.svg` | Total downloads of the artifact named `<file>` in the latest release. | [![GitHub Download Count By Artifact](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/dummy.txt.svg)]() |
-| `downloads/<user>/<repo>/<tag>/<file>.svg` | Total downloads of an artifact named `<file>` in the release with a tag name `<tag>`. | [![GitHub Download Count By Artifact and Release](https://github-basic-badges.herokuapp.com/downloads/kennedyoliveira/github-basic-badges/v1.0.0/dummy.txt.svg)]() |
-| `release/<user>/<repo>.svg` | Latest release tag name. | [![GitHub Release](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg)]() |
-| `issues/<user>/<repo>.svg` | Total issues open. | [![GitHub Issues Open](https://github-basic-badges.herokuapp.com/issues/kennedyoliveira/github-basic-badges.svg)]() |
-| `commits/<user>/<repo>.svg` | Total commits. | [![GitHub Commits](https://github-basic-badges.herokuapp.com/commits/kennedyoliveira/github-basic-badges.svg)]() |
-| `license/<user>/<repo>.svg` | Project LICENSE. | [![GitHub License](https://github-basic-badges.herokuapp.com/license/kennedyoliveira/github-basic-badges.svg)]() |
-| `pulls/<user>/<repo>.svg` | Project open pull requests. | [![GitHub Pull Requests](https://github-basic-badges.herokuapp.com/pulls/kennedyoliveira/github-basic-badges.svg)]() |
+![CYBEREVILCAPTURE](https://user-images.githubusercontent.com/64060825/79849839-a6a58600-83e0-11ea-921d-355a1c40606e.PNG)
+Visit [Cyberevil](http://cyberevill.me) to learn more or visit the [Discord Server](https://discuss.atom.io).
 
-### Custom colors and text
+## Installing
+First download Python latest verson. 
+Now, install pip using `get-pip.py` command.
+if you already have Python, upgrade it by giving pip command `python -m pip install –upgrade pip` in command prompt. 
+Now, Download the Tool, open Windows Explorer from there head to Folder path and type `cmd` enter
+Once CMd pops up Type `pip3 install -r requirements.txt` Now it will install all required module.
 
-You can customize the colors and the text of the badges, just use `color` and `text` parameters in the url, like customizing the last release example, check below:
+## Documentation
 
-[![GitHub Release Ex 1](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg?color=blue&text=last--release)]()
-[![GitHub Release Ex 2](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg?color=orange)]()
-[![GitHub Release Ex 3](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg?text=final--release)]()
-[![GitHub Release Ex 4](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg?color=green)]()
-[![GitHub Release Ex 5](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg?color=yellow)]()
-[![GitHub Release Ex 6](https://github-basic-badges.herokuapp.com/release/kennedyoliveira/github-basic-badges.svg?9900ff)]()
+### Prerequisites
 
-For colors you can use any hex colors you want, and some basic already defined, check the file [badge.rb](https://github.com/kennedyoliveira/github-basic-badges/blob/master/badges/badge.rb) for some basic colors.
+- [Python](https://www.python.org/downloads)
 
-### Deploying on Heroku
+## Discussion
 
-Install heroku toolbet and log to it after that, it's pretty straigth forward deploying on heroku, just do the following:
+* Discuss Proxy tool on our [forums](https://cyberevil.me/)
+* Chat about Cyber-Proxy on Discord with our Cyberevil team -- [instructions for joining](https://discord.gg/nDEZpwS)
 
-````
-# Cloning the repository
-git clone https://github.com/kennedyoliveira/github-basic-badges.git
-cd github-basic-badges
+## License
 
-# Create a heroku app
-heroku create
+[MIT](https://github.com/spiniza/cyber-proxy/blob/master/LICENSE.md)
 
-# Push the code to heroku
-git push heroku master
-
-# Open the app
-heroku open
-````
-
-### Mine Heroku App
-
-My instance is running in the following url `https://github-basic-badges.herokuapp.com` you can use it to generate badges for your repos!
-
-If you have any question or suggestion, open an issue!

@@ -8,7 +8,7 @@ from colorama import  Back, Fore, Style
 from colorama import init
 init()
  
-
+os.system("mode con cols=135")
 user_agent = ["Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"]
 
 API_ENDPOINT = "http://pastebin.com/api/api_post.php"
