@@ -23,7 +23,7 @@ Visit [Cyberevil](http://cyberevill.me) to learn more or visit the [Discord Serv
 First download Python latest verson. 
 Now, install pip using `get-pip.py` command.
 if you already have Python, upgrade it by giving pip command `python -m pip install –upgrade pip` in command prompt. 
-Download the Tool, Then open Windows Explorer from there head to Folder path and type `cmd` enter 
+Now, Download the Tool, open Windows Explorer from there head to Folder path and type `cmd` enter
 Once CMd pops up Type `pip3 install -r requirements.txt` Now it will install all required module.
 
 ## Documentation
