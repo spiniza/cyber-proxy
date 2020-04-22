@@ -20,7 +20,11 @@ CyberEvil Proxy is a proxy gather for the 21st century, built on [Python](https:
 Visit [Cyberevil](http://cyberevill.me) to learn more or visit the [Discord Server](https://discuss.atom.io).
 
 ## Installing
-First download the Tool, Then open Windows Explorer from there head to Folder path and type `cmd`, then press enter once CMd pops up Type `pip3 install -r requirements.txt Now it will install all required modules Now close the Command prompt.
+First download Python latest verson from https://www.python.org/downloads. 
+Now, install pip using `get-pip.py` command.
+if you already have Python, upgrade it by giving pip command `python -m pip install –upgrade pip` in command prompt. download the Tool, Then open Windows Explorer from there head to Folder path and type `cmd`, then press enter once CMd pops up Type `pip3 install -r requirements.txt` Now it will install all required modules Now close the Command prompt.
+
+##PIP Libraries to install
 
 ## Documentation
 
